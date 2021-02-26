@@ -18,7 +18,7 @@
 
 # About ME 💬 :
 
-### - I'm 16 years  old ETHICAL HACKER Student from KERALA(India).Still studying.Future goal to be a CEH 
+### - I'm 16 years  old Student from KERALA(India).Still studying.Future goal to be a CEH 
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
@@ -27,7 +27,8 @@
 - ✨ HACKING SKILLS
 
 ### - Hobbies : 
-- ✨ Gaming Addict
+- ✨ Djing
+- ✨ MUSIC
 - ✨ HACKING
 
 ### - FUTURE GOAL : 
