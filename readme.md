@@ -20,8 +20,22 @@
 # About ME 💬 :
 
 ### - I'm 16 years  old Student from KERALA(India).Still studying.Future goal to be a CEH 
+<p align="center">
+<a href="https://www.instagram.com/i_am_albin_praveen/"><img title="Instagram" src="https://img.shields.io/badge/i_am_albin_praveen-black?style=for-the-badge&logo=instagram"></a>
+<a href="mailto:albinpraveen135790@gmail.com"><img title="MAIL" src="https://img.shields.io/badge/ALBY-black?style=for-the-badge&logo=Gmail"></a>
+</p>
+<p align="center">
+<a href="https://t.me/i_am_albin_praveen"><img title="Telegram" src="https://img.shields.io/badge/i_am_albin_praveen-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://wa.me/+917025743032"><img title="ALBY" src="https://img.shields.io/badge/ALBY-black?style=for-the-badge&logo=Whatsapp"></a>
+</p>
+<p align="center">
+<a href="https://github.com/ALBINPRAVEEN"><img title="Github" src="https://img.shields.io/badge/ALBIN PRAVEEN-black?style=for-the-badge&logo=github"></a>
+ </p>
+
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+
 
 ### - Learning :
 - ✨ CERTIFIED ETHICAL HACKING
@@ -42,9 +56,9 @@
 </br> 
 <p align="center"> 
 
-<img src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667" alt="Kali Linux" width="120" hight="50">
-<img src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" alt="Windows"  width="120" hight="50">
-<img src="https://camo.githubusercontent.com/be575aa85a73adb1f56ef072b806f513045f68e2e50a9945c763bf65006dcfa6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e64726f69642e737667" alt="Android" width="120" hight="50">
+<img src="https://img.shields.io/badge/KALI_LINUX-black?style=for-the-badge&logo=kali_linux" alt="Kali Linux" width="120" hight="50">
+<img src="https://img.shields.io/badge/WINDOWS-black?style=for-the-badge&logo=windows" alt="Windows"  width="120" hight="50">
+<img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android" alt="Android" width="120" hight="50">
 </p>
 </p>
 </br>
@@ -55,8 +69,8 @@
 # Languages👨‍💻 🛠:
 </br> 
 <p align="center">
-<img src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" alt="Python" width="120" hight="50">
-<img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html_128x128.png" alt="HTML" width="120" hight="50">
+<img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python" alt="Python" width="120" hight="50">
+<img src="https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html" alt="HTML" width="120" hight="50">
 
 </p>
 </br>
