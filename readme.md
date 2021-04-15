@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi, I'm <a href="https://www.instagram.com/i_am_albin_praveen/">ALBY </a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1> 
-<p align="center">   <a href="https://github.com/ALBINPRAVEEN"><img src="https://github-readme-stats.vercel.app/api?username=albinpraveen" alt="ALBY'S GITHUB stats"></a>
+<p align="center">   <a href="https://github.com/ALBINPRAVEEN"><img src="https://github-readme-stats.vercel.app/api?username=ALBINPRAVEEN&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200" alt="ALBY'S GITHUB stats"></a>
+ 
 <p align="center">   <strong><a href="https://albinpraveen.github.io/">Official Website</a></strong> 
 
 ![M2TsZIT](https://user-images.githubusercontent.com/64751167/91557308-e1509980-e951-11ea-9b57-695796bd82cf.gif)
@@ -78,20 +79,20 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:albinpraveen135790@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail">
 </a>
 <a href="https://www.instagram.com/i_am_albin_praveen/">
-  <img align="left" alt="Instagram" width="130" hight="100" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
+  <img align="left" alt="Instagram" width="130" hight="100" src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram" />
 
 </a>
 <a href="https://wa.me/+917025743032">
-  <img align="left" alt=" Whatsapp" width="130" hight="100" src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667" />
+  <img align="left" alt=" Whatsapp" width="130" hight="100" src="https://img.shields.io/badge/whatsapp-black?style=for-the-badge&logo=whatsapp">
 </a>
 <a href="https://github.com/ALBINPRAVEEN">
-  <img align="left" alt="Github" width="130" hight="100" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" />
+  <img align="left" alt="Github" width="130" hight="100" src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" />
 </a>
 <a href="https://t.me/i_am_albin_praveen">
- <img align="left" alt="Telegram" width="130" hight="100" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" />
+ <img align="left" alt="Telegram" width="130" hight="100" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram" />
 </a>
  </p>
  
