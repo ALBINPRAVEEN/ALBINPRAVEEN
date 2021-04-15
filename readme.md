@@ -5,6 +5,14 @@
 <h1 align="center">Welcome to my GitHub profile</h1> 
 <p align="center">   <a href="https://github.com/ALBINPRAVEEN"><img src="https://github-readme-stats.vercel.app/api?username=ALBINPRAVEEN&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200" alt="ALBY'S GITHUB stats"></a>
  
+
+
+<p align="center">   <a href="https://github.com/ALBINPRAVEEN"><img src="https://github-profile-trophy.vercel.app/?username=ALBINPRAVEEN&row=1" </a>
+ 
+ <p align="center">   <a href="https://github.com/ALBINPRAVEEN"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALBINPRAVEEN&theme=blue-green" </a>
+ 
+  <p align="center">   <a href="https://github.com/ALBINPRAVEEN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ALBINPRAVEEN&theme=blue-green" </a>
+ 
 <p align="center">   <strong><a href="https://albinpraveen.github.io/">Official Website</a></strong> 
 
 ![M2TsZIT](https://user-images.githubusercontent.com/64751167/91557308-e1509980-e951-11ea-9b57-695796bd82cf.gif)
