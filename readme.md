@@ -13,7 +13,7 @@
  
   <p align="center">   <a href="https://github.com/ALBINPRAVEEN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ALBINPRAVEEN&theme=blue-green" </a>
  
-<p align="center">   <strong><a href="https://albinpraveen.github.io/">Official Website</a></strong> 
+<p align="center">   <strong><a href="https://albinpraveen.github.io/portfolio2">Official Website</a></strong> 
 <p align="center">   <strong><a href="https://tryhackme.com/p/alby">TryHackMe</a></strong> 
 
  
