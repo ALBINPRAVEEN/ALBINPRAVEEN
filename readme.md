@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to my GitHub profile</h1> 
 <p align="center">   <a href="https://github.com/ALBINPRAVEEN"><img src="https://github-readme-stats.vercel.app/api?username=ALBINPRAVEEN&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200" alt="ALBY'S GITHUB stats"></a>
  
-[![ALBINPRAVEEN's github activity graph](https://activity-graph.herokuapp.com/graph?username=ALBINPRAVEEN&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ALBINPRAVEEN)
+[![ALBINPRAVEEN's github activity graph](https://activity-graph.herokuapp.com/graph?username=ALBINPRAVEEN&theme=react-dark&area=true&hide_border=true)
 
 
 <p align="center">   <a href="https://github.com/ALBINPRAVEEN"><img src="https://github-profile-trophy.vercel.app/?username=ALBINPRAVEEN&row=1" </a>
