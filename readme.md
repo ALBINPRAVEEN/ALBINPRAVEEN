@@ -2,7 +2,10 @@
 
 <p align="center">   <strong><a href="https://albinpraveen.github.io/portfolio2">Official Website</a></strong> 
 <p align="center">   <strong><a href="https://tryhackme.com/p/alby">TryHackMe</a></strong> 
-
+<p align="center">
+	<a href="https://tryhackme.com/p/alby"><img src="https://github.com/ALBINPRAVEEN/TEXT-TO-HANDWRITING-BY-ALBY/blob/main/alby.png" alt="TryHackMe">
+</a>
+</p>
  
 ![M2TsZIT](https://user-images.githubusercontent.com/64751167/91557308-e1509980-e951-11ea-9b57-695796bd82cf.gif)
 </p> 
@@ -15,7 +18,7 @@
 	<a href="https://github.com/ALBINPRAVEEN"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://t.me/i_am_albin_praveen"><img src="https://img.icons8.com/bubbles/50/000000/sent.png" alt="Telegram"/></a>
 	<a href="https://wa.me/+917025743032"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
-	<a href="https://www.instagram.com/i_am_albin_praveen/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/i_am_albin_praveen/"><img src="https://img.icons8.com/clouds/50/instagram-new--v2.png" alt="Instagram"/></a>
 	<a href="mailto:albinpraveen135790@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" alt="Mail"/></a>
 </p>
 <h1 align="center">Hi, I'm <a href="https://albinpraveen.ml">ALBY </a>!</h1>
