@@ -140,7 +140,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 	<a href="https://github.com/ALBINPRAVEEN"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://t.me/i_am_albin_praveen"><img src="https://img.icons8.com/bubbles/50/000000/sent.png" alt="Telegram"/></a>
 	<a href="https://wa.me/+917025743032"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
-	<a href="https://www.instagram.com/i_am_albin_praveen/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/i_am_albin_praveen/"><img src="https://img.icons8.com/clouds/50/instagram-new--v2.png" alt="Instagram"/></a>
 	<a href="mailto:albinpraveen135790@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" alt="Mail"/></a>
 </p>
 
