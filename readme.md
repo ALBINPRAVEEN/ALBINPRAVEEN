@@ -25,6 +25,8 @@
 <h1 align="center">Hi, I'm <a href="https://albinpraveen.ml">ALBY </a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
 
+<p align="center">   <a href="https://github.com/ALBINPRAVEEN"><img src="https://github-readme-stats.vercel.app/api?username=ALBINPRAVEEN&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200" alt="ALBY'S GITHUB stats"></a>
+ 
 ---
 # 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 
